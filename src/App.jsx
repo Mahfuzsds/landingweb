@@ -9,7 +9,6 @@ import Services from "./components/Service";
 import Testimonial from "./components/Testimonial";
 import Trial from "./components/Trial";
 import TrustSection from "./components/TrustSection";
-
 function App() {
   return (
     <>
