@@ -6,7 +6,6 @@ node_modules/
 
 # Ignore log files
 *.log
-
 # Ignore OS files
 .DS_Store
 Thumbs.db
