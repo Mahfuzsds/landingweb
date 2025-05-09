@@ -1,4 +1,4 @@
-import "./app.css";
+import "./App.css";
 import Companies from "./components/Companies";
 import FAQ from "./components/FAQ";
 import Footer from "./components/Footer";
@@ -9,7 +9,6 @@ import Services from "./components/Service";
 import Testimonial from "./components/Testimonial";
 import Trial from "./components/Trial";
 import TrustSection from "./components/TrustSection";
-// Updated
 function App() {
   return (
     <>
